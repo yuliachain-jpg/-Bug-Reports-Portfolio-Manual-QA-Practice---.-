@@ -1,2 +1,18 @@
-# -Bug-Reports-Portfolio-Manual-QA-Practice---.-
-## Цель Показать навык нахождения, воспроизведения и чёткого описания багов.## Баг-репорты###.                                1. TapTap Arrow (eOt.Games) - Infinite loading screen- **Platform:** Android- **Severity:** Major- **Description:** Игра зависает на экране загрузки (2 устройства, Wi-Fi + мобильный интернет)- **Date:** October 2026
+Bug Reports Portfolio( Manual QA)
+Учебное портфолио баг репорты 
+Цель- это показать навык поиска, воспроизведения и чёткого описания дефектов 
+
+### Формат баг-репорта
+- Summary 
+- Environment 
+- Precondition 
+- Steps to reproduse 
+- Expected result 
+- Actual result 
+- Severity
+- Priority 
+- Attachment ( скриншоты) 
+
+### Список багов 
+1.[ Не открывается доска на Pinterest] ()- Severity: Major, Priority:High
+2.[Неверно отображается дата доставки]()-
